@@ -4,7 +4,7 @@
 /* more headers goes there */
 
 /*
-* main : Entry point
+* main : Prints if number is positive, zero or negative
 *
 * Return: Always 0 (Success)
 * checks if @n is positive, negative or zero
