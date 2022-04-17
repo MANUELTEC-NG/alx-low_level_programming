@@ -4,9 +4,10 @@
 /* more headers goes there */
 
 /*
-* Main : checks if @n is positive, negative or zero
+* main : Entry - point
+* Return: Always 0 (Success)
+* checks if @n is positive, negative or zero
 *
-* Return: void
 */
 
 int main(void)
