@@ -3,12 +3,10 @@
 #include <time.h>
 /* more headers goes there */
 
-/*
-* main : Prints if number is positive, zero or negative
+/**
+* main : Prints if @n is positive, zero or negative
 *
 * Return: Always 0 (Success)
-* checks if @n is positive, negative or zero
-*
 */
 
 int main(void)
