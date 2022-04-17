@@ -5,8 +5,9 @@
 
 /*
 * Main : checks if @n is positive, negative or zero
+*
 * Return: void
-* */
+*/
 
 int main(void)
 {
