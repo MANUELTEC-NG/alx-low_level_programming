@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da8e1af5-98c6-4ae2-863b-c63ab0cbea3d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27ujU1BRWrQWHmGGwKJfI6vlWnc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.overridden" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da8e1af5-98c6-4ae2-863b-c63ab0cbea3d" name="Default Changelist" comment="" />
+      <created>1650176876728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650176876728</updated>
+      <workItem from="1650176883645" duration="18000" />
+      <workItem from="1650176928266" duration="724000" />
+      <workItem from="1650183639821" duration="4353000" />
+      <workItem from="1650209782221" duration="3278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="124" key="FileChooserDialogImpl" timestamp="1650209618133">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="508" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1650209618133" />
+    <state width="977" height="120" key="GridCell.Tab.0.bottom" timestamp="1650209651125">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="977" height="120" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1650209651125" />
+    <state width="977" height="120" key="GridCell.Tab.0.center" timestamp="1650209651119">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="977" height="120" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1650209651119" />
+    <state width="977" height="120" key="GridCell.Tab.0.left" timestamp="1650209651119">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="977" height="120" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1650209651119" />
+    <state width="977" height="120" key="GridCell.Tab.0.right" timestamp="1650209651124">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="977" height="120" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1650209651124" />
+    <state x="229" y="28" key="SettingsEditor" timestamp="1650209626863">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="229" y="28" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1650209626863" />
+  </component>
+</project>
