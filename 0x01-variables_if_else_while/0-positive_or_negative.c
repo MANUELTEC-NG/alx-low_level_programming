@@ -4,7 +4,8 @@
 /* more headers goes there */
 
 /*
-* main : Entry - point
+* main : Entry point
+*
 * Return: Always 0 (Success)
 * checks if @n is positive, negative or zero
 *
