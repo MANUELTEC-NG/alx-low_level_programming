@@ -16,4 +16,6 @@ a++;
 putchar('\n');
 
 }
+return 0;
+
 }
