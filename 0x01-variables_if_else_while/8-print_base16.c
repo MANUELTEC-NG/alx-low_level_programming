@@ -9,8 +9,7 @@
 int main(void)
 {
 char base_10_digit = 48;
-int counter;
-counter = 0;
+int counter = 0;
 int letter = 97;
 
 
