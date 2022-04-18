@@ -11,9 +11,10 @@ int main(void)
 char base_10_digit = 48;
 int counter;
 counter = 0;
-char alpha = 97;
+char letter = 97;
 
-while (base_10_digit <= 57 || alpha <= 'e')
+
+while (base_10_digit <= 57 || letter <= 'e')
 {
 
 if (counter < 10)
@@ -25,8 +26,8 @@ counter += 1;
 
 else if (counter >= 10)
 {
-putchar(alpha);
-alpha += 1;
+putchar(letter);
+letter += 1;
 }
 }
 putchar('\n');
