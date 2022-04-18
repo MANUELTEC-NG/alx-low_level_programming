@@ -11,7 +11,7 @@ int main(void)
 char base_10_digit = 48;
 int counter;
 counter = 0;
-char letter = 97;
+int letter = 97;
 
 
 while (base_10_digit <= 57 || letter <= 'e')
