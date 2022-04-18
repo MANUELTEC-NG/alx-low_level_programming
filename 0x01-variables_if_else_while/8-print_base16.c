@@ -13,7 +13,7 @@ int counter = 0;
 int letter = 97;
 
 
-while (base_10_digit <= 57 || letter <= 'e')
+while (base_10_digit <= 57 || letter <= 'f')
 {
 
 if (counter < 10)
