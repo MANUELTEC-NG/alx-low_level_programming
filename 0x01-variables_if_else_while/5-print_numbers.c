@@ -17,6 +17,7 @@ putchar(deci_digit);
 deci_digit++;
 
 }
+putchar('\n');
 return (0);
 
 }
