@@ -5,9 +5,9 @@
  * main - prints lowercase alphabets and
  * immediately followed by uppercase alphabets
  *
- * @return : Always 0 (Success)
+ * return : Always 0 (Success)
  */
-int main()
+int main(void)
 {
 char a = 'a';
 char upper_char = 'A';
@@ -31,5 +31,5 @@ a++;
 }
 putchar('\n');
 
-return 0;
+return (0);
 }
