@@ -5,8 +5,9 @@
  * main - prints lowercase alphabets and
  * immediately followed by uppercase alphabets
  *
- * Return : Always 0 (Success)
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 char a = 'a';
