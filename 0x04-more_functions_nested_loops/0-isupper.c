@@ -1,4 +1,4 @@
-#include <>;
+#include "main.h"
 
 /**
  * _isupper - check if the argument passed in
@@ -6,8 +6,6 @@
  *@c: the argument to be checked
  * Return: 1 if c is uppercase or 0 if c is not
  */
-
-int _isupper(int c);
 
 int _isupper(int c)
 {
