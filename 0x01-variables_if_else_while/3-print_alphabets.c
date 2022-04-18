@@ -5,7 +5,7 @@
  * main - prints lowercase alphabets and
  * immediately followed by uppercase alphabets
  *
- * return : Always 0 (Success)
+ * Return : Always 0 (Success)
  */
 int main(void)
 {
