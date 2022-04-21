@@ -3,8 +3,8 @@
 /**
 *mul - multiples two integer value
 *
-*@a : first integer value
-*@b : second integer value
+*@a: first integer value
+*@b: second integer value
 *
 *Return: 0 (Success)
 */
