@@ -7,7 +7,7 @@ isdigit - checks for digit 0-9
 Return: 1 if c is a digit and 0 otherwise
 */
 
-int isdigit(int c)
+int _isdigit(int c)
 {
 if (c >= 48 && <= 58)
 {
