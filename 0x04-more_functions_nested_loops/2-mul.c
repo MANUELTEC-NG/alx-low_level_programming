@@ -6,11 +6,11 @@
 *@a: first integer value
 *@b: second integer value
 *
-*Return: 0 (Success)
+*Return: result of the multiplication
 */
 
 int mul(int a, int b)
 {
-
 return (a*b);
+
 }
