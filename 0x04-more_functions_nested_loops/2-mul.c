@@ -1,16 +1,16 @@
 #include "main.h"
 
 /**
-* mul - multiples two integer value
+*mul - multiples two integer value
 *
-* @a : first integer value
-* @b : second integer value
+*@a : first integer value
+*@b : second integer value
 *
-* Return: 0 (Success)
+*Return: 0 (Success)
 */
 
 int mul(int a, int b)
 {
-a*b;
-return (0);
+
+return (a*b);
 }
