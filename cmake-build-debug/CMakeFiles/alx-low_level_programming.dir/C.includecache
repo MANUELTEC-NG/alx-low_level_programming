@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../0x02-functions_nested_loops/main.h
+
+C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x03-debugging/main.h
+stdio.h
+-
+
+C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x04-more_functions_nested_loops/main.h
+
+C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+
+C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/main.c
+stdio.h
+-
+main.h
+C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/main.h
+0x03-debugging/main.h
+C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x03-debugging/main.h
+0x04-more_functions_nested_loops/main.h
+C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x04-more_functions_nested_loops/main.h
+0x05-pointers_arrays_strings/main.h
+C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+

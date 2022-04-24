@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="alx-low_level_programming" targetName="alx-low_level_programming" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -27,7 +29,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da8e1af5-98c6-4ae2-863b-c63ab0cbea3d" name="Default Changelist" comment="" />
+    <list default="true" id="da8e1af5-98c6-4ae2-863b-c63ab0cbea3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-hello_world/4-puts.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-hello_world/4-puts.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-hello_world/5-printf.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-hello_world/5-printf.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-hello_world/6-size.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-hello_world/6-size.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04-more_functions_nested_loops/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x04-more_functions_nested_loops/main.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +43,14 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +67,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.advertisement.text.overridden" value="true" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CMake" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.c" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+  </component>
+  <component name="RunManager">
+    <configuration name="alx-low_level_programming" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="alx-low_level_programming" TARGET_NAME="alx-low_level_programming" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="alx-low_level_programming" RUN_TARGET_NAME="alx-low_level_programming">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="CMake Application.alx-low_level_programming" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -66,7 +96,14 @@
       <workItem from="1650176883645" duration="18000" />
       <workItem from="1650176928266" duration="724000" />
       <workItem from="1650183639821" duration="4353000" />
-      <workItem from="1650209782221" duration="28131000" />
+      <workItem from="1650209782221" duration="30565000" />
+      <workItem from="1650532973527" duration="17054000" />
+      <workItem from="1650623022446" duration="694000" />
+      <workItem from="1650693848560" duration="2861000" />
+      <workItem from="1650699208455" duration="2315000" />
+      <workItem from="1650704969954" duration="932000" />
+      <workItem from="1650775186292" duration="5426000" />
+      <workItem from="1650821489140" duration="10072000" />
     </task>
     <servers />
   </component>
@@ -83,31 +120,36 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="508" y="124" key="FileChooserDialogImpl" timestamp="1650209618133">
+    <state x="355" y="48" width="715" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650779764029">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="508" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1650209618133" />
-    <state width="977" height="120" key="GridCell.Tab.0.bottom" timestamp="1650209651125">
+    <state x="355" y="48" width="715" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1650779764029" />
+    <state x="508" y="124" key="FileChooserDialogImpl" timestamp="1650779231932">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="977" height="120" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1650209651125" />
-    <state width="977" height="120" key="GridCell.Tab.0.center" timestamp="1650209651119">
+    <state x="508" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1650779231932" />
+    <state width="651" height="190" key="GridCell.Tab.0.bottom" timestamp="1650837207992">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="977" height="120" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1650209651119" />
-    <state width="977" height="120" key="GridCell.Tab.0.left" timestamp="1650209651119">
+    <state width="651" height="190" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1650837207992" />
+    <state width="651" height="190" key="GridCell.Tab.0.center" timestamp="1650837207991">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="977" height="120" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1650209651119" />
-    <state width="977" height="120" key="GridCell.Tab.0.right" timestamp="1650209651124">
+    <state width="651" height="190" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1650837207991" />
+    <state width="651" height="190" key="GridCell.Tab.0.left" timestamp="1650837207991">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="977" height="120" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1650209651124" />
-    <state x="229" y="28" key="SettingsEditor" timestamp="1650209626863">
+    <state width="651" height="190" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1650837207991" />
+    <state width="651" height="190" key="GridCell.Tab.0.right" timestamp="1650837207992">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="229" y="28" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1650209626863" />
+    <state width="651" height="190" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1650837207992" />
+    <state x="229" y="28" key="SettingsEditor" timestamp="1650534014317">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="229" y="28" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1650534014317" />
   </component>
 </project>

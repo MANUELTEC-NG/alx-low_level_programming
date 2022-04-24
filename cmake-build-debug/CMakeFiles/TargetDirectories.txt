@@ -1,0 +1,3 @@
+C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir
+C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
