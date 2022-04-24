@@ -3,7 +3,7 @@ project(alx-low_level_programming C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(alx-low_level_programming main.c 0x06-pointers_arrays_strings/0-strcat.c)
+add_executable(alx-low_level_programming main.c 0x06-pointers_arrays_strings/0-strcat.c 0x06-pointers_arrays_strings/1-strncat.c)
 
 include_directories(0x00-hello_world)
 include_directories(0x01-variables_if_else_while)

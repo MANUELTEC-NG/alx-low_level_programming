@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c" "C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/0-strcat.c.obj"
+  "C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x06-pointers_arrays_strings/1-strncat.c" "C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/1-strncat.c.obj"
   "C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/main.c" "C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")

@@ -30,11 +30,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da8e1af5-98c6-4ae2-863b-c63ab0cbea3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x00-hello_world/4-puts.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-hello_world/4-puts.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x00-hello_world/5-printf.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-hello_world/5-printf.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x00-hello_world/6-size.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-hello_world/6-size.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04-more_functions_nested_loops/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x04-more_functions_nested_loops/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/alx-low_level_programming.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/alx-low_level_programming.cbp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +108,7 @@
       <workItem from="1650699208455" duration="2315000" />
       <workItem from="1650704969954" duration="932000" />
       <workItem from="1650775186292" duration="5426000" />
-      <workItem from="1650821489140" duration="10072000" />
+      <workItem from="1650821489140" duration="10540000" />
     </task>
     <servers />
   </component>

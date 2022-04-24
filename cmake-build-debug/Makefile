@@ -149,6 +149,33 @@ alx-low_level_programming/fast:
 	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/0-strcat.c.s
 .PHONY : 0x06-pointers_arrays_strings/0-strcat.c.s
 
+0x06-pointers_arrays_strings/1-strncat.obj: 0x06-pointers_arrays_strings/1-strncat.c.obj
+
+.PHONY : 0x06-pointers_arrays_strings/1-strncat.obj
+
+# target to build an object file
+0x06-pointers_arrays_strings/1-strncat.c.obj:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/1-strncat.c.obj
+.PHONY : 0x06-pointers_arrays_strings/1-strncat.c.obj
+
+0x06-pointers_arrays_strings/1-strncat.i: 0x06-pointers_arrays_strings/1-strncat.c.i
+
+.PHONY : 0x06-pointers_arrays_strings/1-strncat.i
+
+# target to preprocess a source file
+0x06-pointers_arrays_strings/1-strncat.c.i:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/1-strncat.c.i
+.PHONY : 0x06-pointers_arrays_strings/1-strncat.c.i
+
+0x06-pointers_arrays_strings/1-strncat.s: 0x06-pointers_arrays_strings/1-strncat.c.s
+
+.PHONY : 0x06-pointers_arrays_strings/1-strncat.s
+
+# target to generate assembly for a file
+0x06-pointers_arrays_strings/1-strncat.c.s:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/1-strncat.c.s
+.PHONY : 0x06-pointers_arrays_strings/1-strncat.c.s
+
 main.obj: main.c.obj
 
 .PHONY : main.obj
@@ -188,6 +215,9 @@ help:
 	@echo ... 0x06-pointers_arrays_strings/0-strcat.obj
 	@echo ... 0x06-pointers_arrays_strings/0-strcat.i
 	@echo ... 0x06-pointers_arrays_strings/0-strcat.s
+	@echo ... 0x06-pointers_arrays_strings/1-strncat.obj
+	@echo ... 0x06-pointers_arrays_strings/1-strncat.i
+	@echo ... 0x06-pointers_arrays_strings/1-strncat.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

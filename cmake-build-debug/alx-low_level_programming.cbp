@@ -91,6 +91,9 @@
 		<Unit filename="C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c">
 			<Option target="alx-low_level_programming"/>
 		</Unit>
+		<Unit filename="C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x06-pointers_arrays_strings/1-strncat.c">
+			<Option target="alx-low_level_programming"/>
+		</Unit>
 		<Unit filename="C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/main.c">
 			<Option target="alx-low_level_programming"/>
 		</Unit>
