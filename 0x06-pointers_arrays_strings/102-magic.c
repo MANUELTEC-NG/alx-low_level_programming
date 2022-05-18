@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 
-int main(void)
+int magic(void)
 {
 int n;
 int a[5];

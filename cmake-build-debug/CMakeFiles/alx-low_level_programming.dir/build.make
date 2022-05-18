@@ -98,11 +98,176 @@ CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/1-strncat.
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/1-strncat.c.s"
 	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\1-strncat.c -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\1-strncat.c.s
 
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/2-strncpy.c.obj: CMakeFiles/alx-low_level_programming.dir/flags.make
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/2-strncpy.c.obj: CMakeFiles/alx-low_level_programming.dir/includes_C.rsp
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/2-strncpy.c.obj: ../0x06-pointers_arrays_strings/2-strncpy.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/2-strncpy.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\2-strncpy.c.obj   -c C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\2-strncpy.c
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/2-strncpy.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/2-strncpy.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\2-strncpy.c > CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\2-strncpy.c.i
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/2-strncpy.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/2-strncpy.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\2-strncpy.c -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\2-strncpy.c.s
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/3-strcmp.c.obj: CMakeFiles/alx-low_level_programming.dir/flags.make
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/3-strcmp.c.obj: CMakeFiles/alx-low_level_programming.dir/includes_C.rsp
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/3-strcmp.c.obj: ../0x06-pointers_arrays_strings/3-strcmp.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/3-strcmp.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\3-strcmp.c.obj   -c C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\3-strcmp.c
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/3-strcmp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/3-strcmp.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\3-strcmp.c > CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\3-strcmp.c.i
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/3-strcmp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/3-strcmp.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\3-strcmp.c -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\3-strcmp.c.s
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/4-rev_array.c.obj: CMakeFiles/alx-low_level_programming.dir/flags.make
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/4-rev_array.c.obj: CMakeFiles/alx-low_level_programming.dir/includes_C.rsp
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/4-rev_array.c.obj: ../0x06-pointers_arrays_strings/4-rev_array.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/4-rev_array.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\4-rev_array.c.obj   -c C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\4-rev_array.c
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/4-rev_array.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/4-rev_array.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\4-rev_array.c > CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\4-rev_array.c.i
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/4-rev_array.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/4-rev_array.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\4-rev_array.c -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\4-rev_array.c.s
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/5-string_toupper.c.obj: CMakeFiles/alx-low_level_programming.dir/flags.make
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/5-string_toupper.c.obj: CMakeFiles/alx-low_level_programming.dir/includes_C.rsp
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/5-string_toupper.c.obj: ../0x06-pointers_arrays_strings/5-string_toupper.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/5-string_toupper.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\5-string_toupper.c.obj   -c C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\5-string_toupper.c
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/5-string_toupper.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/5-string_toupper.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\5-string_toupper.c > CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\5-string_toupper.c.i
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/5-string_toupper.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/5-string_toupper.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\5-string_toupper.c -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\5-string_toupper.c.s
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/6-cap_string.c.obj: CMakeFiles/alx-low_level_programming.dir/flags.make
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/6-cap_string.c.obj: CMakeFiles/alx-low_level_programming.dir/includes_C.rsp
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/6-cap_string.c.obj: ../0x06-pointers_arrays_strings/6-cap_string.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/6-cap_string.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\6-cap_string.c.obj   -c C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\6-cap_string.c
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/6-cap_string.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/6-cap_string.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\6-cap_string.c > CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\6-cap_string.c.i
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/6-cap_string.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/6-cap_string.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\6-cap_string.c -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\6-cap_string.c.s
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/7-leet.c.obj: CMakeFiles/alx-low_level_programming.dir/flags.make
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/7-leet.c.obj: CMakeFiles/alx-low_level_programming.dir/includes_C.rsp
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/7-leet.c.obj: ../0x06-pointers_arrays_strings/7-leet.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/7-leet.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\7-leet.c.obj   -c C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\7-leet.c
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/7-leet.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/7-leet.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\7-leet.c > CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\7-leet.c.i
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/7-leet.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/7-leet.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\7-leet.c -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\7-leet.c.s
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/100-rot13.c.obj: CMakeFiles/alx-low_level_programming.dir/flags.make
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/100-rot13.c.obj: CMakeFiles/alx-low_level_programming.dir/includes_C.rsp
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/100-rot13.c.obj: ../0x06-pointers_arrays_strings/100-rot13.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/100-rot13.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\100-rot13.c.obj   -c C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\100-rot13.c
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/100-rot13.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/100-rot13.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\100-rot13.c > CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\100-rot13.c.i
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/100-rot13.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/100-rot13.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\100-rot13.c -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\100-rot13.c.s
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/101-print_number.c.obj: CMakeFiles/alx-low_level_programming.dir/flags.make
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/101-print_number.c.obj: CMakeFiles/alx-low_level_programming.dir/includes_C.rsp
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/101-print_number.c.obj: ../0x06-pointers_arrays_strings/101-print_number.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/101-print_number.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\101-print_number.c.obj   -c C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\101-print_number.c
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/101-print_number.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/101-print_number.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\101-print_number.c > CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\101-print_number.c.i
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/101-print_number.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/101-print_number.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\101-print_number.c -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\101-print_number.c.s
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/102-magic.c.obj: CMakeFiles/alx-low_level_programming.dir/flags.make
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/102-magic.c.obj: CMakeFiles/alx-low_level_programming.dir/includes_C.rsp
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/102-magic.c.obj: ../0x06-pointers_arrays_strings/102-magic.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/102-magic.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\102-magic.c.obj   -c C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\102-magic.c
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/102-magic.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/102-magic.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\102-magic.c > CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\102-magic.c.i
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/102-magic.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/102-magic.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\102-magic.c -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\102-magic.c.s
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/103-infinite_add.c.obj: CMakeFiles/alx-low_level_programming.dir/flags.make
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/103-infinite_add.c.obj: CMakeFiles/alx-low_level_programming.dir/includes_C.rsp
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/103-infinite_add.c.obj: ../0x06-pointers_arrays_strings/103-infinite_add.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/103-infinite_add.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\103-infinite_add.c.obj   -c C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\103-infinite_add.c
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/103-infinite_add.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/103-infinite_add.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\103-infinite_add.c > CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\103-infinite_add.c.i
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/103-infinite_add.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/103-infinite_add.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\103-infinite_add.c -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\103-infinite_add.c.s
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/104-print_buffer.c.obj: CMakeFiles/alx-low_level_programming.dir/flags.make
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/104-print_buffer.c.obj: CMakeFiles/alx-low_level_programming.dir/includes_C.rsp
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/104-print_buffer.c.obj: ../0x06-pointers_arrays_strings/104-print_buffer.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/104-print_buffer.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\104-print_buffer.c.obj   -c C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\104-print_buffer.c
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/104-print_buffer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/104-print_buffer.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\104-print_buffer.c > CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\104-print_buffer.c.i
+
+CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/104-print_buffer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/104-print_buffer.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\0x06-pointers_arrays_strings\104-print_buffer.c -o CMakeFiles\alx-low_level_programming.dir\0x06-pointers_arrays_strings\104-print_buffer.c.s
+
 # Object files for target alx-low_level_programming
 alx__low_level_programming_OBJECTS = \
 "CMakeFiles/alx-low_level_programming.dir/main.c.obj" \
 "CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/0-strcat.c.obj" \
-"CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/1-strncat.c.obj"
+"CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/1-strncat.c.obj" \
+"CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/2-strncpy.c.obj" \
+"CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/3-strcmp.c.obj" \
+"CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/4-rev_array.c.obj" \
+"CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/5-string_toupper.c.obj" \
+"CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/6-cap_string.c.obj" \
+"CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/7-leet.c.obj" \
+"CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/100-rot13.c.obj" \
+"CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/101-print_number.c.obj" \
+"CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/102-magic.c.obj" \
+"CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/103-infinite_add.c.obj" \
+"CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/104-print_buffer.c.obj"
 
 # External object files for target alx-low_level_programming
 alx__low_level_programming_EXTERNAL_OBJECTS =
@@ -110,11 +275,22 @@ alx__low_level_programming_EXTERNAL_OBJECTS =
 alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/main.c.obj
 alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/0-strcat.c.obj
 alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/1-strncat.c.obj
+alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/2-strncpy.c.obj
+alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/3-strcmp.c.obj
+alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/4-rev_array.c.obj
+alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/5-string_toupper.c.obj
+alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/6-cap_string.c.obj
+alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/7-leet.c.obj
+alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/100-rot13.c.obj
+alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/101-print_number.c.obj
+alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/102-magic.c.obj
+alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/103-infinite_add.c.obj
+alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/104-print_buffer.c.obj
 alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/build.make
 alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/linklibs.rsp
 alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/objects1.rsp
 alx-low_level_programming.exe: CMakeFiles/alx-low_level_programming.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable alx-low_level_programming.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Yhello_G\CLionProjects\alx-low_level_programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking C executable alx-low_level_programming.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\alx-low_level_programming.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

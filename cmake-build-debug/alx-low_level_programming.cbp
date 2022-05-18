@@ -94,6 +94,39 @@
 		<Unit filename="C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x06-pointers_arrays_strings/1-strncat.c">
 			<Option target="alx-low_level_programming"/>
 		</Unit>
+		<Unit filename="C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x06-pointers_arrays_strings/100-rot13.c">
+			<Option target="alx-low_level_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x06-pointers_arrays_strings/101-print_number.c">
+			<Option target="alx-low_level_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x06-pointers_arrays_strings/102-magic.c">
+			<Option target="alx-low_level_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x06-pointers_arrays_strings/103-infinite_add.c">
+			<Option target="alx-low_level_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x06-pointers_arrays_strings/104-print_buffer.c">
+			<Option target="alx-low_level_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x06-pointers_arrays_strings/2-strncpy.c">
+			<Option target="alx-low_level_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x06-pointers_arrays_strings/3-strcmp.c">
+			<Option target="alx-low_level_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x06-pointers_arrays_strings/4-rev_array.c">
+			<Option target="alx-low_level_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x06-pointers_arrays_strings/5-string_toupper.c">
+			<Option target="alx-low_level_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x06-pointers_arrays_strings/6-cap_string.c">
+			<Option target="alx-low_level_programming"/>
+		</Unit>
+		<Unit filename="C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/0x06-pointers_arrays_strings/7-leet.c">
+			<Option target="alx-low_level_programming"/>
+		</Unit>
 		<Unit filename="C:/Users/Yhello_G/CLionProjects/alx-low_level_programming/main.c">
 			<Option target="alx-low_level_programming"/>
 		</Unit>

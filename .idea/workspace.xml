@@ -30,16 +30,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da8e1af5-98c6-4ae2-863b-c63ab0cbea3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/101-print_number.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/101-print_number.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/102-magic.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/102-magic.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/C.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/objects1.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/alx-low_level_programming.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/alx-low_level_programming.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/alx-low_level_programming.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/alx-low_level_programming.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/alx-low_level_programming.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +118,18 @@
       <workItem from="1650699208455" duration="2315000" />
       <workItem from="1650704969954" duration="932000" />
       <workItem from="1650775186292" duration="5426000" />
-      <workItem from="1650821489140" duration="10540000" />
+      <workItem from="1650821489140" duration="13282000" />
+      <workItem from="1650903242147" duration="5021000" />
+      <workItem from="1650960121971" duration="13214000" />
+      <workItem from="1651047571390" duration="915000" />
+      <workItem from="1651050143728" duration="14535000" />
+      <workItem from="1651753601664" duration="6514000" />
+      <workItem from="1652107687200" duration="1814000" />
+      <workItem from="1652693927586" duration="870000" />
+      <workItem from="1652694872689" duration="356000" />
+      <workItem from="1652714198704" duration="5472000" />
+      <workItem from="1652793558304" duration="1238000" />
+      <workItem from="1652865393637" duration="1151000" />
     </task>
     <servers />
   </component>
@@ -136,22 +157,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="508" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1650779231932" />
-    <state width="651" height="190" key="GridCell.Tab.0.bottom" timestamp="1650837207992">
+    <state width="979" height="93" key="GridCell.Tab.0.bottom" timestamp="1652720776385">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="651" height="190" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1650837207992" />
-    <state width="651" height="190" key="GridCell.Tab.0.center" timestamp="1650837207991">
+    <state width="979" height="93" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1652720776385" />
+    <state width="979" height="93" key="GridCell.Tab.0.center" timestamp="1652720776384">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="651" height="190" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1650837207991" />
-    <state width="651" height="190" key="GridCell.Tab.0.left" timestamp="1650837207991">
+    <state width="979" height="93" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1652720776384" />
+    <state width="979" height="93" key="GridCell.Tab.0.left" timestamp="1652720776384">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="651" height="190" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1650837207991" />
-    <state width="651" height="190" key="GridCell.Tab.0.right" timestamp="1650837207992">
+    <state width="979" height="93" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1652720776384" />
+    <state width="979" height="93" key="GridCell.Tab.0.right" timestamp="1652720776384">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="651" height="190" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1650837207992" />
+    <state width="979" height="93" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1652720776384" />
     <state x="229" y="28" key="SettingsEditor" timestamp="1650534014317">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

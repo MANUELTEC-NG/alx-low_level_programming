@@ -176,6 +176,303 @@ alx-low_level_programming/fast:
 	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/1-strncat.c.s
 .PHONY : 0x06-pointers_arrays_strings/1-strncat.c.s
 
+0x06-pointers_arrays_strings/100-rot13.obj: 0x06-pointers_arrays_strings/100-rot13.c.obj
+
+.PHONY : 0x06-pointers_arrays_strings/100-rot13.obj
+
+# target to build an object file
+0x06-pointers_arrays_strings/100-rot13.c.obj:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/100-rot13.c.obj
+.PHONY : 0x06-pointers_arrays_strings/100-rot13.c.obj
+
+0x06-pointers_arrays_strings/100-rot13.i: 0x06-pointers_arrays_strings/100-rot13.c.i
+
+.PHONY : 0x06-pointers_arrays_strings/100-rot13.i
+
+# target to preprocess a source file
+0x06-pointers_arrays_strings/100-rot13.c.i:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/100-rot13.c.i
+.PHONY : 0x06-pointers_arrays_strings/100-rot13.c.i
+
+0x06-pointers_arrays_strings/100-rot13.s: 0x06-pointers_arrays_strings/100-rot13.c.s
+
+.PHONY : 0x06-pointers_arrays_strings/100-rot13.s
+
+# target to generate assembly for a file
+0x06-pointers_arrays_strings/100-rot13.c.s:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/100-rot13.c.s
+.PHONY : 0x06-pointers_arrays_strings/100-rot13.c.s
+
+0x06-pointers_arrays_strings/101-print_number.obj: 0x06-pointers_arrays_strings/101-print_number.c.obj
+
+.PHONY : 0x06-pointers_arrays_strings/101-print_number.obj
+
+# target to build an object file
+0x06-pointers_arrays_strings/101-print_number.c.obj:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/101-print_number.c.obj
+.PHONY : 0x06-pointers_arrays_strings/101-print_number.c.obj
+
+0x06-pointers_arrays_strings/101-print_number.i: 0x06-pointers_arrays_strings/101-print_number.c.i
+
+.PHONY : 0x06-pointers_arrays_strings/101-print_number.i
+
+# target to preprocess a source file
+0x06-pointers_arrays_strings/101-print_number.c.i:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/101-print_number.c.i
+.PHONY : 0x06-pointers_arrays_strings/101-print_number.c.i
+
+0x06-pointers_arrays_strings/101-print_number.s: 0x06-pointers_arrays_strings/101-print_number.c.s
+
+.PHONY : 0x06-pointers_arrays_strings/101-print_number.s
+
+# target to generate assembly for a file
+0x06-pointers_arrays_strings/101-print_number.c.s:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/101-print_number.c.s
+.PHONY : 0x06-pointers_arrays_strings/101-print_number.c.s
+
+0x06-pointers_arrays_strings/102-magic.obj: 0x06-pointers_arrays_strings/102-magic.c.obj
+
+.PHONY : 0x06-pointers_arrays_strings/102-magic.obj
+
+# target to build an object file
+0x06-pointers_arrays_strings/102-magic.c.obj:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/102-magic.c.obj
+.PHONY : 0x06-pointers_arrays_strings/102-magic.c.obj
+
+0x06-pointers_arrays_strings/102-magic.i: 0x06-pointers_arrays_strings/102-magic.c.i
+
+.PHONY : 0x06-pointers_arrays_strings/102-magic.i
+
+# target to preprocess a source file
+0x06-pointers_arrays_strings/102-magic.c.i:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/102-magic.c.i
+.PHONY : 0x06-pointers_arrays_strings/102-magic.c.i
+
+0x06-pointers_arrays_strings/102-magic.s: 0x06-pointers_arrays_strings/102-magic.c.s
+
+.PHONY : 0x06-pointers_arrays_strings/102-magic.s
+
+# target to generate assembly for a file
+0x06-pointers_arrays_strings/102-magic.c.s:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/102-magic.c.s
+.PHONY : 0x06-pointers_arrays_strings/102-magic.c.s
+
+0x06-pointers_arrays_strings/103-infinite_add.obj: 0x06-pointers_arrays_strings/103-infinite_add.c.obj
+
+.PHONY : 0x06-pointers_arrays_strings/103-infinite_add.obj
+
+# target to build an object file
+0x06-pointers_arrays_strings/103-infinite_add.c.obj:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/103-infinite_add.c.obj
+.PHONY : 0x06-pointers_arrays_strings/103-infinite_add.c.obj
+
+0x06-pointers_arrays_strings/103-infinite_add.i: 0x06-pointers_arrays_strings/103-infinite_add.c.i
+
+.PHONY : 0x06-pointers_arrays_strings/103-infinite_add.i
+
+# target to preprocess a source file
+0x06-pointers_arrays_strings/103-infinite_add.c.i:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/103-infinite_add.c.i
+.PHONY : 0x06-pointers_arrays_strings/103-infinite_add.c.i
+
+0x06-pointers_arrays_strings/103-infinite_add.s: 0x06-pointers_arrays_strings/103-infinite_add.c.s
+
+.PHONY : 0x06-pointers_arrays_strings/103-infinite_add.s
+
+# target to generate assembly for a file
+0x06-pointers_arrays_strings/103-infinite_add.c.s:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/103-infinite_add.c.s
+.PHONY : 0x06-pointers_arrays_strings/103-infinite_add.c.s
+
+0x06-pointers_arrays_strings/104-print_buffer.obj: 0x06-pointers_arrays_strings/104-print_buffer.c.obj
+
+.PHONY : 0x06-pointers_arrays_strings/104-print_buffer.obj
+
+# target to build an object file
+0x06-pointers_arrays_strings/104-print_buffer.c.obj:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/104-print_buffer.c.obj
+.PHONY : 0x06-pointers_arrays_strings/104-print_buffer.c.obj
+
+0x06-pointers_arrays_strings/104-print_buffer.i: 0x06-pointers_arrays_strings/104-print_buffer.c.i
+
+.PHONY : 0x06-pointers_arrays_strings/104-print_buffer.i
+
+# target to preprocess a source file
+0x06-pointers_arrays_strings/104-print_buffer.c.i:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/104-print_buffer.c.i
+.PHONY : 0x06-pointers_arrays_strings/104-print_buffer.c.i
+
+0x06-pointers_arrays_strings/104-print_buffer.s: 0x06-pointers_arrays_strings/104-print_buffer.c.s
+
+.PHONY : 0x06-pointers_arrays_strings/104-print_buffer.s
+
+# target to generate assembly for a file
+0x06-pointers_arrays_strings/104-print_buffer.c.s:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/104-print_buffer.c.s
+.PHONY : 0x06-pointers_arrays_strings/104-print_buffer.c.s
+
+0x06-pointers_arrays_strings/2-strncpy.obj: 0x06-pointers_arrays_strings/2-strncpy.c.obj
+
+.PHONY : 0x06-pointers_arrays_strings/2-strncpy.obj
+
+# target to build an object file
+0x06-pointers_arrays_strings/2-strncpy.c.obj:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/2-strncpy.c.obj
+.PHONY : 0x06-pointers_arrays_strings/2-strncpy.c.obj
+
+0x06-pointers_arrays_strings/2-strncpy.i: 0x06-pointers_arrays_strings/2-strncpy.c.i
+
+.PHONY : 0x06-pointers_arrays_strings/2-strncpy.i
+
+# target to preprocess a source file
+0x06-pointers_arrays_strings/2-strncpy.c.i:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/2-strncpy.c.i
+.PHONY : 0x06-pointers_arrays_strings/2-strncpy.c.i
+
+0x06-pointers_arrays_strings/2-strncpy.s: 0x06-pointers_arrays_strings/2-strncpy.c.s
+
+.PHONY : 0x06-pointers_arrays_strings/2-strncpy.s
+
+# target to generate assembly for a file
+0x06-pointers_arrays_strings/2-strncpy.c.s:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/2-strncpy.c.s
+.PHONY : 0x06-pointers_arrays_strings/2-strncpy.c.s
+
+0x06-pointers_arrays_strings/3-strcmp.obj: 0x06-pointers_arrays_strings/3-strcmp.c.obj
+
+.PHONY : 0x06-pointers_arrays_strings/3-strcmp.obj
+
+# target to build an object file
+0x06-pointers_arrays_strings/3-strcmp.c.obj:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/3-strcmp.c.obj
+.PHONY : 0x06-pointers_arrays_strings/3-strcmp.c.obj
+
+0x06-pointers_arrays_strings/3-strcmp.i: 0x06-pointers_arrays_strings/3-strcmp.c.i
+
+.PHONY : 0x06-pointers_arrays_strings/3-strcmp.i
+
+# target to preprocess a source file
+0x06-pointers_arrays_strings/3-strcmp.c.i:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/3-strcmp.c.i
+.PHONY : 0x06-pointers_arrays_strings/3-strcmp.c.i
+
+0x06-pointers_arrays_strings/3-strcmp.s: 0x06-pointers_arrays_strings/3-strcmp.c.s
+
+.PHONY : 0x06-pointers_arrays_strings/3-strcmp.s
+
+# target to generate assembly for a file
+0x06-pointers_arrays_strings/3-strcmp.c.s:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/3-strcmp.c.s
+.PHONY : 0x06-pointers_arrays_strings/3-strcmp.c.s
+
+0x06-pointers_arrays_strings/4-rev_array.obj: 0x06-pointers_arrays_strings/4-rev_array.c.obj
+
+.PHONY : 0x06-pointers_arrays_strings/4-rev_array.obj
+
+# target to build an object file
+0x06-pointers_arrays_strings/4-rev_array.c.obj:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/4-rev_array.c.obj
+.PHONY : 0x06-pointers_arrays_strings/4-rev_array.c.obj
+
+0x06-pointers_arrays_strings/4-rev_array.i: 0x06-pointers_arrays_strings/4-rev_array.c.i
+
+.PHONY : 0x06-pointers_arrays_strings/4-rev_array.i
+
+# target to preprocess a source file
+0x06-pointers_arrays_strings/4-rev_array.c.i:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/4-rev_array.c.i
+.PHONY : 0x06-pointers_arrays_strings/4-rev_array.c.i
+
+0x06-pointers_arrays_strings/4-rev_array.s: 0x06-pointers_arrays_strings/4-rev_array.c.s
+
+.PHONY : 0x06-pointers_arrays_strings/4-rev_array.s
+
+# target to generate assembly for a file
+0x06-pointers_arrays_strings/4-rev_array.c.s:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/4-rev_array.c.s
+.PHONY : 0x06-pointers_arrays_strings/4-rev_array.c.s
+
+0x06-pointers_arrays_strings/5-string_toupper.obj: 0x06-pointers_arrays_strings/5-string_toupper.c.obj
+
+.PHONY : 0x06-pointers_arrays_strings/5-string_toupper.obj
+
+# target to build an object file
+0x06-pointers_arrays_strings/5-string_toupper.c.obj:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/5-string_toupper.c.obj
+.PHONY : 0x06-pointers_arrays_strings/5-string_toupper.c.obj
+
+0x06-pointers_arrays_strings/5-string_toupper.i: 0x06-pointers_arrays_strings/5-string_toupper.c.i
+
+.PHONY : 0x06-pointers_arrays_strings/5-string_toupper.i
+
+# target to preprocess a source file
+0x06-pointers_arrays_strings/5-string_toupper.c.i:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/5-string_toupper.c.i
+.PHONY : 0x06-pointers_arrays_strings/5-string_toupper.c.i
+
+0x06-pointers_arrays_strings/5-string_toupper.s: 0x06-pointers_arrays_strings/5-string_toupper.c.s
+
+.PHONY : 0x06-pointers_arrays_strings/5-string_toupper.s
+
+# target to generate assembly for a file
+0x06-pointers_arrays_strings/5-string_toupper.c.s:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/5-string_toupper.c.s
+.PHONY : 0x06-pointers_arrays_strings/5-string_toupper.c.s
+
+0x06-pointers_arrays_strings/6-cap_string.obj: 0x06-pointers_arrays_strings/6-cap_string.c.obj
+
+.PHONY : 0x06-pointers_arrays_strings/6-cap_string.obj
+
+# target to build an object file
+0x06-pointers_arrays_strings/6-cap_string.c.obj:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/6-cap_string.c.obj
+.PHONY : 0x06-pointers_arrays_strings/6-cap_string.c.obj
+
+0x06-pointers_arrays_strings/6-cap_string.i: 0x06-pointers_arrays_strings/6-cap_string.c.i
+
+.PHONY : 0x06-pointers_arrays_strings/6-cap_string.i
+
+# target to preprocess a source file
+0x06-pointers_arrays_strings/6-cap_string.c.i:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/6-cap_string.c.i
+.PHONY : 0x06-pointers_arrays_strings/6-cap_string.c.i
+
+0x06-pointers_arrays_strings/6-cap_string.s: 0x06-pointers_arrays_strings/6-cap_string.c.s
+
+.PHONY : 0x06-pointers_arrays_strings/6-cap_string.s
+
+# target to generate assembly for a file
+0x06-pointers_arrays_strings/6-cap_string.c.s:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/6-cap_string.c.s
+.PHONY : 0x06-pointers_arrays_strings/6-cap_string.c.s
+
+0x06-pointers_arrays_strings/7-leet.obj: 0x06-pointers_arrays_strings/7-leet.c.obj
+
+.PHONY : 0x06-pointers_arrays_strings/7-leet.obj
+
+# target to build an object file
+0x06-pointers_arrays_strings/7-leet.c.obj:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/7-leet.c.obj
+.PHONY : 0x06-pointers_arrays_strings/7-leet.c.obj
+
+0x06-pointers_arrays_strings/7-leet.i: 0x06-pointers_arrays_strings/7-leet.c.i
+
+.PHONY : 0x06-pointers_arrays_strings/7-leet.i
+
+# target to preprocess a source file
+0x06-pointers_arrays_strings/7-leet.c.i:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/7-leet.c.i
+.PHONY : 0x06-pointers_arrays_strings/7-leet.c.i
+
+0x06-pointers_arrays_strings/7-leet.s: 0x06-pointers_arrays_strings/7-leet.c.s
+
+.PHONY : 0x06-pointers_arrays_strings/7-leet.s
+
+# target to generate assembly for a file
+0x06-pointers_arrays_strings/7-leet.c.s:
+	$(MAKE) -f CMakeFiles\alx-low_level_programming.dir\build.make CMakeFiles/alx-low_level_programming.dir/0x06-pointers_arrays_strings/7-leet.c.s
+.PHONY : 0x06-pointers_arrays_strings/7-leet.c.s
+
 main.obj: main.c.obj
 
 .PHONY : main.obj
@@ -218,6 +515,39 @@ help:
 	@echo ... 0x06-pointers_arrays_strings/1-strncat.obj
 	@echo ... 0x06-pointers_arrays_strings/1-strncat.i
 	@echo ... 0x06-pointers_arrays_strings/1-strncat.s
+	@echo ... 0x06-pointers_arrays_strings/100-rot13.obj
+	@echo ... 0x06-pointers_arrays_strings/100-rot13.i
+	@echo ... 0x06-pointers_arrays_strings/100-rot13.s
+	@echo ... 0x06-pointers_arrays_strings/101-print_number.obj
+	@echo ... 0x06-pointers_arrays_strings/101-print_number.i
+	@echo ... 0x06-pointers_arrays_strings/101-print_number.s
+	@echo ... 0x06-pointers_arrays_strings/102-magic.obj
+	@echo ... 0x06-pointers_arrays_strings/102-magic.i
+	@echo ... 0x06-pointers_arrays_strings/102-magic.s
+	@echo ... 0x06-pointers_arrays_strings/103-infinite_add.obj
+	@echo ... 0x06-pointers_arrays_strings/103-infinite_add.i
+	@echo ... 0x06-pointers_arrays_strings/103-infinite_add.s
+	@echo ... 0x06-pointers_arrays_strings/104-print_buffer.obj
+	@echo ... 0x06-pointers_arrays_strings/104-print_buffer.i
+	@echo ... 0x06-pointers_arrays_strings/104-print_buffer.s
+	@echo ... 0x06-pointers_arrays_strings/2-strncpy.obj
+	@echo ... 0x06-pointers_arrays_strings/2-strncpy.i
+	@echo ... 0x06-pointers_arrays_strings/2-strncpy.s
+	@echo ... 0x06-pointers_arrays_strings/3-strcmp.obj
+	@echo ... 0x06-pointers_arrays_strings/3-strcmp.i
+	@echo ... 0x06-pointers_arrays_strings/3-strcmp.s
+	@echo ... 0x06-pointers_arrays_strings/4-rev_array.obj
+	@echo ... 0x06-pointers_arrays_strings/4-rev_array.i
+	@echo ... 0x06-pointers_arrays_strings/4-rev_array.s
+	@echo ... 0x06-pointers_arrays_strings/5-string_toupper.obj
+	@echo ... 0x06-pointers_arrays_strings/5-string_toupper.i
+	@echo ... 0x06-pointers_arrays_strings/5-string_toupper.s
+	@echo ... 0x06-pointers_arrays_strings/6-cap_string.obj
+	@echo ... 0x06-pointers_arrays_strings/6-cap_string.i
+	@echo ... 0x06-pointers_arrays_strings/6-cap_string.s
+	@echo ... 0x06-pointers_arrays_strings/7-leet.obj
+	@echo ... 0x06-pointers_arrays_strings/7-leet.i
+	@echo ... 0x06-pointers_arrays_strings/7-leet.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
