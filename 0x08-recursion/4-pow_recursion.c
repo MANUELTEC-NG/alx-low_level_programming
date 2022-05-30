@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _pow_recursion
+ * _pow_recursion - calculates the exponential of a number
  * @x: number
  * @y: number of power
- * Return: Always 0.
+ * Return: result of the calculation.
  */
 int _pow_recursion(int x, int y)
 {

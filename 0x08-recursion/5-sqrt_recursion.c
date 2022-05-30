@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * sqrt_a
+ * sqrt_a - calculates the square of a number
  * @a: number
  * @b: number of power
  * Return: Always 0.

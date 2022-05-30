@@ -31,7 +31,11 @@
   <component name="ChangeListManager">
     <list default="true" id="da8e1af5-98c6-4ae2-863b-c63ab0cbea3d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04-more_functions_nested_loops/101-print_number.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x04-more_functions_nested_loops/101-print_number.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/2-strlen_recursion.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/2-strlen_recursion.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/3-factorial.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/3-factorial.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/4-pow_recursion.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/4-pow_recursion.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/5-sqrt_recursion.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/5-sqrt_recursion.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/6-is_prime_number.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/6-is_prime_number.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +116,8 @@
       <workItem from="1652714198704" duration="5472000" />
       <workItem from="1652793558304" duration="1238000" />
       <workItem from="1652865393637" duration="6233000" />
-      <workItem from="1653597808197" duration="13915000" />
+      <workItem from="1653597808197" duration="17004000" />
+      <workItem from="1653937602453" duration="794000" />
     </task>
     <servers />
   </component>

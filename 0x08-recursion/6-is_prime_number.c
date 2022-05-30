@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * prime_a - main - check the code
+ * prime_a - check if the number is a prime
  * @a: number
  * @b: number of power
  * Return: Always 0.
@@ -19,6 +19,7 @@ return (1);
 }
 return (prime_a(a, b + 1));
 }
+
 
 
 /**
