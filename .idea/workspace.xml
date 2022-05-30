@@ -29,14 +29,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da8e1af5-98c6-4ae2-863b-c63ab0cbea3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-recursion/2-strlen_recursion.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/2-strlen_recursion.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-recursion/3-factorial.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/3-factorial.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-recursion/4-pow_recursion.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/4-pow_recursion.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-recursion/5-sqrt_recursion.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/5-sqrt_recursion.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-recursion/6-is_prime_number.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/6-is_prime_number.c" afterDir="false" />
-    </list>
+    <list default="true" id="da8e1af5-98c6-4ae2-863b-c63ab0cbea3d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +63,7 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CMake" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/main.c" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunManager">
     <configuration name="alx-low_level_programming" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="alx-low_level_programming" TARGET_NAME="alx-low_level_programming" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="alx-low_level_programming" RUN_TARGET_NAME="alx-low_level_programming">
@@ -117,7 +110,7 @@
       <workItem from="1652793558304" duration="1238000" />
       <workItem from="1652865393637" duration="6233000" />
       <workItem from="1653597808197" duration="17004000" />
-      <workItem from="1653937602453" duration="794000" />
+      <workItem from="1653937602453" duration="1200000" />
     </task>
     <servers />
   </component>
@@ -161,9 +154,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="979" height="93" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1652720776384" />
-    <state x="229" y="28" key="SettingsEditor" timestamp="1650534014317">
+    <state x="229" y="28" key="SettingsEditor" timestamp="1653938839160">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="229" y="28" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1650534014317" />
+    <state x="229" y="28" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1653938839160" />
   </component>
 </project>
