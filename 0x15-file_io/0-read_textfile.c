@@ -1,7 +1,4 @@
 #include "main.h"
-#include <stdlib.h>
-#include <stdio.h>
-#include <fcntl.h>
 
 /**
  * read_textfile - reads text file and prints the letters
@@ -10,6 +7,7 @@
  *
  * Return: numbers of letters printed. It fails, returns 0.
  */
+ 
 ssize_t read_textfile(const char *filename, size_t letters)
 {
 int fd;
