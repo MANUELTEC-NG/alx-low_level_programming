@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stdlib.h>
+#include <stdio.h>
 
 /**
  * read_textfile - reads text file and prints the letters
@@ -22,15 +24,15 @@ if (fd == -1)
 return (0);
 
 buffer = malloc(sizeof(char) * (letters));
-if (!buf)
+if (!buffer)
 return (0);
 
-nrd = read(fd, buf, letters);
-nwr = write(STDOUT_FILENO, buf, nrd);
+nrd = read(fd, buffer, letters);
+nwr = write(STDOUT_FILENO, buffer, nrd);
 
 close(fd);
 
-free(buf);
+free(buffer);
 
 return (nwr);
 }
