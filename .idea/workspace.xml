@@ -29,7 +29,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da8e1af5-98c6-4ae2-863b-c63ab0cbea3d" name="Default Changelist" comment="" />
+    <list default="true" id="da8e1af5-98c6-4ae2-863b-c63ab0cbea3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0B-malloc_free/3-alloc_grid.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0B-malloc_free/3-alloc_grid.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +113,10 @@
       <workItem from="1652793558304" duration="1238000" />
       <workItem from="1652865393637" duration="6233000" />
       <workItem from="1653597808197" duration="17004000" />
-      <workItem from="1653937602453" duration="1200000" />
+      <workItem from="1653937602453" duration="4977000" />
+      <workItem from="1654031368039" duration="660000" />
+      <workItem from="1654065184598" duration="337000" />
+      <workItem from="1654282347221" duration="4853000" />
     </task>
     <servers />
   </component>

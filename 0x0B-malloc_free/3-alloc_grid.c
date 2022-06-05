@@ -24,10 +24,12 @@ for (i = 0; i < height; i++)
 grid[i] = malloc(width * sizeof(int));
 if (grid[i] == NULL)
 {
-while (i >= 0)
+while (i >= 0) {
 free(grid[i--]);
 free(grid);
 return (NULL);
+}
+
 }
 
 
