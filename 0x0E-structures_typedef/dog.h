@@ -1,7 +1,8 @@
 #ifndef _DOG_H_
 #define _DOG_H_
+
 /**
- * struct dog -Dog data.
+ * struct dog - Dog data.
  * @name: Name of the dog
  * @age: age of the dog.
  * @owner: owner of the dog.
@@ -22,4 +23,5 @@ dog_t *new_dog(char *name, float age, char *owner);
 void free_dog(dog_t *d);
 char *_strncpy(char *dest, char *src, int n);
 int _strlen(char *s);
+
 #endif
