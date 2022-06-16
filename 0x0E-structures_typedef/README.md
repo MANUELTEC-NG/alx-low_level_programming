@@ -1,1 +1,1 @@
-Project on typedef in low level programming C
+Project on typedef in low level programming in C
